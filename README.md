@@ -1,5 +1,7 @@
 # BLOOD ON SNOW
 
+[![DOI](https://zenodo.org/badge/708816615.svg)](https://zenodo.org/doi/10.5281/zenodo.10034079)
+
 ## About the Project
 
 This project aims to detect intense red blooms in the European Alps using satellite imagery (Sentinel-2).
