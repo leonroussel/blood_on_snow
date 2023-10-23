@@ -1,0 +1,4 @@
+numpy
+osgeo
+scipy
+skimage
